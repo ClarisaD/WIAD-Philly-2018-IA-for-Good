@@ -1,6 +1,3 @@
-# WIAD-Philly-2018-IA-for-Good
-Slides on Design in Public Service Journalism
-
 ![image](https://github.com/ClarisaD/WIAD-Philly-2018-IA-for-Good/blob/master/1.jpg)
 
 ![image](https://github.com/ClarisaD/WIAD-Philly-2018-IA-for-Good/blob/master/2.jpg)
