@@ -18,6 +18,8 @@
 
 ![image](https://github.com/ClarisaD/WIAD-Philly-2018-IA-for-Good/blob/master/10.jpg)
 
+![image](https://github.com/ClarisaD/WIAD-Philly-2018-IA-for-Good/blob/master/11.jpg)
+
 ![image](https://github.com/ClarisaD/WIAD-Philly-2018-IA-for-Good/blob/master/12.jpg)
 
 ![image](https://github.com/ClarisaD/WIAD-Philly-2018-IA-for-Good/blob/master/13.jpg)
